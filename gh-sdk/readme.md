@@ -95,5 +95,6 @@ git commit -m"Initiated Terraform"
 git push
 
 terraform destroy(optional to delete the change)
-```
 
+```
+[Support Link](https://registry.terraform.io/providers/integrations/github/latest/docs)
