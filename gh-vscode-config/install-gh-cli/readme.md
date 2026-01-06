@@ -67,7 +67,7 @@ Uncomment the lines (remove the #) and enter your details so they look like this
     ```
     git config --global user.name "Saumitra Rajput"
 
-    git config --global user.email "Saumitra.Rajput@tenethealth.net"
+    git config --global user.email "example@mail.com"
     ```
 
     >Use code with caution.
