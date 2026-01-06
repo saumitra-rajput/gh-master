@@ -10,6 +10,11 @@ Open your VS Code terminal and run:
     ```
     > Use code with caution.
 
+    Example :
+    ![alt text](image.png)
+
+
+
 (Note: Replace main with master if your project uses the older naming convention.)
 
 - How it Works
