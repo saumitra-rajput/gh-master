@@ -27,7 +27,7 @@ This project is part of my DevOps & Cloud learning journey and reflects real-wor
 *   Markdown documentation standards [click](markdown)
 *   Git Pull request [click](gh-pull)
 *   Git readme - Handling Nested Repositorie & Initializing [click](gh-readme)
-*   .github\workflows [click](.github\workflows)
+*   .github\workflows
 *   Concept of Empty folder [click](gh-empty_folder)
 *   Simple Python File [click](gh-python)
 *   Concept of .gitignore [click](gh-gitignore)
